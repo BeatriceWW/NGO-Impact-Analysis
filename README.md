@@ -10,7 +10,7 @@ This project offers a hands-on opportunity to explore how data-driven insights c
 * Donors: Information on individuals and organizations that fund GoodThought’s projects, including donor types.
 
 The aim is to execute SQL queries to answer:
-1. Which NGO project assignments have the highest donations 
+1. NGO project assignments by donation amount, region and donation type. 
 2. Which projects have a high impact score, and how many donations by region? 
 
 Findings
